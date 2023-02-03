@@ -16,7 +16,6 @@
         }
         h3{
             text-align: center;
-            border-bottom: 2px solid white;
             border-top: 2px solid white;
         }
         table {
