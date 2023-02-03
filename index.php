@@ -36,7 +36,7 @@
 </head>
 <body>
 <h1>
-    <img src="https://github.com/William-Aultman/images/blob/main/Artboard%201%404x.png" alt="The Raven" width="300" height="300">
+    <img src="https://github.com/William-Aultman/it3203/blob/main/Artboard%201%404x.png" alt="The Raven" width="300" height="300">
 </h1>
 <div>
     <h2>
