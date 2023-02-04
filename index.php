@@ -30,6 +30,9 @@
         div{
             border: 2px solid white;
         }
+        span{
+            width: 50%;
+        }
 
     </style>
 </head>
@@ -57,18 +60,22 @@
         </tr>
     </table>
 </div>
-<h2>
-    Poetry Slam
-</h2>
-<p>
-    During the later hours of operation, we have a poetry slam where anyone is invited to read their heart aloud.
-</p>
-<h2>
-    Hours and Location
-</h2>
-<p>
-    The hours of operation are from 6AM to 11PM. The café is located on the square of downtown Marietta, GA.
-</p>
+<span>
+    <h2>
+        Poetry Slam
+    </h2>
+    <p>
+        During the later hours of operation, we have a poetry slam where anyone is invited to read their heart aloud.
+    </p>
+</span>
+<span>
+    <h2>
+        Hours and Location
+    </h2>
+    <p>
+        The hours of operation are from 6AM to 11PM. The café is located on the square of downtown Marietta, GA.
+    </p>
+</span>
 
 </body>
 </html>
