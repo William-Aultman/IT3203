@@ -34,7 +34,6 @@
             float: left;
         }
         section.indent-1 section{
-            border: 2px solid white;
             width: 50%;
             float: left;
         }
