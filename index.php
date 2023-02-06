@@ -32,12 +32,11 @@
         }
         section.indent-1{
             float: left;
-            border-top: 2px solid white;
         }
         section.indent-1 section{
+            border: 2px solid white;
             width: 50%;
             float: left;
-            border: 2px solid white
         }
     </style>
 </head>
