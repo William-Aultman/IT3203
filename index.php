@@ -30,8 +30,11 @@
         div{
             border: 2px solid white;
         }
-        section{
-            width: 50%
+        section.indent-1{
+            float: left
+        }
+        section.indent-1 section{
+            width: 50%; float: left;
         }
     </style>
 </head>
@@ -59,21 +62,23 @@
         </tr>
     </table>
 </div>
-<section>
-    <h2>
-        Poetry Slam
-    </h2>
-    <p>
-        During the later hours of operation, we have a poetry slam where anyone is invited to read their heart aloud.
-    </p>
-</section>
-<section>
-    <h2>
-        Hours and Location
-    </h2>
-    <p>
-        The hours of operation are from 6AM to 11PM. The café is located on the square of downtown Marietta, GA.
-    </p>
+<section class="indent-1">
+    <section>
+        <h2>
+            Poetry Slam
+        </h2>
+        <p>
+            During the later hours of operation, we have a poetry slam where anyone is invited to read their heart aloud.
+        </p>
+    </section>
+    <section>
+        <h2>
+            Hours and Location
+        </h2>
+        <p>
+            The hours of operation are from 6AM to 11PM. The café is located on the square of downtown Marietta, GA.
+        </p>
+    </section>
 </section>
 
 </body>
